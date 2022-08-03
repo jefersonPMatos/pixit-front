@@ -16,4 +16,4 @@ Intala todas as dependências do projeto.
 
 Roda o projeto na porta http://localhost:3000
 
-**Nota: Para ter todas as funcionalidades, é preciso rodar a API do projeto. Ver: https://github.com/jefersonPMatos/form-multipart/tree/master/form-multstep-backend **
+**Nota: Para ter todas as funcionalidades, é preciso rodar a API do projeto. Ver: https://github.com/jefersonPMatos/pixit-api**
